@@ -1,0 +1,6 @@
+#this is some person infomation
+#Sun Apr 12 22:20:10 CST 2020
+华为手机nova=1
+庄艳=27
+李正旺=29
+华为手机p10=3
